@@ -134,10 +134,10 @@ All of our hacks are *open-source*, and only located under our [Github Organizat
 
 ## The Team
 
+- [donaldli2020](https://github.com/donaldli2020) - Contributor and revived PMGH
 - [gemsvidø](https://github.com/afkvido) - Reuploader of PMGH
 - [Natsumi](https://github.com/PatheticMustan) - Original Creator of PMGH
 - [Arcerion](https://github.com/ArcerionDev) - Official Owner of PMGH
-- [donaldli2020](https://github.com/donaldli2020) - Contributor
 - [Yama](https://github.com/vibinyama) - Collaborator
 - [BoredFish](https://github.com/BoredFishRE) - Collaborator
 - [Hostedposted](https://github.com/hostedposted) - Owner of the Prodigy Cheat Dashboard
