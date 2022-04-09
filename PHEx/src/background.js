@@ -27,7 +27,7 @@ browser.webRequest.onBeforeRequest.addListener(async details => {
 	// get options from local
 	const url = await get("url");
 	const checked = await get("checked");
-	const redirectorDomain = (url && checked) ? url : "https://hacks.prodigyhacking.com";
+	const redirectorDomain = (url && checked) ? url : "https://prodigy-hacking.donaldli2020.repl.co/game.min.js";
 
 	if (details.url.startsWith("https://code.prodigygame.com/code/") && details.url.includes("/game.min.js")) {
 		fetch("https://raw.githubusercontent.com/Prodigy-Hacking/ProdigyMathGameHacking/master/PHEx/status.json").then(response => response.json()).then(async data => {
