@@ -16,30 +16,18 @@
 		•
 		<a href="https://discord.gg/XQDfbfq">Discord</a>
 		•
-		<a href="https://github.com/ProdigyPNP/ProdigyMathGameHacking/wiki/How-to-install-hacks">Installation</a>
+		<a href="../../wiki/How-to-install-hacks">Installation</a>
 		•
 		<a href="https://www.youtube.com/channel/UCr6WNMDW-bytEVGL1Vna7Lw">Youtube</a>
 	</strong>
 </p>
 <p align="center">
-	<a href="https://chrome.google.com/webstore/detail/gjabpajagbgoifbkflgojeojmnlmioea/">
-		<img alt="Chrome Web Store Rating" src="https://img.shields.io/chrome-web-store/stars/gjabpajagbgoifbkflgojeojmnlmioea?label=Extension%20Rating">
-</a>
-	
-<a>
-<img alt="Extension Downloads" src="https://visitor-badge.glitch.me/badge?page_id=page.id">
-</a>
-	
-<a href="https://chrome.google.com/webstore/detail/gjabpajagbgoifbkflgojeojmnlmioea/">
-<img alt="Extension Downloads" src="https://img.shields.io/chrome-web-store/users/gjabpajagbgoifbkflgojeojmnlmioea?color=red&label=Extension%20Downloads">
-</a>
-
 <a href="https://discord.gg/XQDfbfq">
 	<img src="https://img.shields.io/discord/683793361123016755.svg?color=7289da&label=Discord&logo=discord&style=flat-square">
 </a>
 
-<a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/pulse">
-	<img src="https://img.shields.io/github/commit-activity/m/ProdigyPNP/ProdigyMathGameHacking">
+<a href="https://github.com/Prodigy-Hacking-2/ProdigyMathGameHacking/pulse">
+	<img src="https://img.shields.io/github/commit-activity/m/Prodigy-Hacking-2/ProdigyMathGameHacking">
 </a>
 
 </p>
@@ -71,7 +59,7 @@ All of our hacks are open source, and free. No paywalls, no ads, and no Patreon.
 <details>
 <summary><b>Can you hack for me?</b></summary>
 
-No. See [#170](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/discussions/170).
+No.
 
 </details>
 
@@ -111,7 +99,7 @@ There's an <b>extremely small</b> chance your account will be hacker-tagged, res
 
 We will <b>never<b/> ask you for your password. If somebody asks you for personal/sensitive information, report it to the staff on our [Discord server](https://discord.gg/XQDfbfq).
 
-All of our hacks are *open-source*, and only located under our [Github Organization](https://github.com/Prodigy-Hacking).
+All of our hacks are *open-source*, and only located under our [Github Organization](https://github.com/Prodigy-Hacking-2).
 *If it's not an official repository or a fork, it may not be safe!*
 </details>
 
@@ -160,14 +148,14 @@ All of our hacks are *open-source*, and only located under our [Github Organizat
 
 ## Components
 
-- [ProdigyMathGameHacking](https://github.com/ProdigyPNP/ProdigyMathGameHacking) - The ProdigyMathGameHacking Repository
-- [PHEx](https://github.com/ProdigyPNP/ProdigyMathGameHacking/tree/master/PHEx) - The Prodigy Hacking Extension, used to inject our modified gamefiles into Prodigy.
-- [willsCheatMenu](https://github.com/ProdigyPNP/ProdigyMathGameHacking/tree/master/willsCheatMenu) - The cheat GUI, for user convinience
-- [docs](https://github.com/ProdigyPNP/ProdigyMathGameHacking/tree/master/docs) - Our documentation of Prodigy, used to find functions to build the hacks.
-- [meta](https://github.com/ProdigyPNP/ProdigyMathGameHacking/tree/master/meta) - Information on this repository
-- [oldguard](https://github.com/ProdigyPNP/ProdigyMathGameHacking/tree/master/oldguard) - oldguard
-- [.vscode](https://github.com/ProdigyPNP/ProdigyMathGameHacking/tree/master/.vscode) - Code snippets, to make creating new hacks easier and faster
-- [.github](https://github.com/ProdigyPNP/ProdigyMathGameHacking/tree/master/.github) - Repository information for GitHub
+- [ProdigyMathGameHacking](../../) - The ProdigyMathGameHacking Repository
+- [PHEx](../../tree/master/PHEx) - The Prodigy Hacking Extension, used to inject our modified gamefiles into Prodigy.
+- [willsCheatMenu](../../tree/master/willsCheatMenu) - The cheat GUI, for user convinience
+- [docs](../../tree/master/docs) - Our documentation of Prodigy, used to find functions to build the hacks.
+- [meta](../../tree/master/meta) - Information on this repository
+- [oldguard](../../tree/master/oldguard) - oldguard
+- [.vscode]../../tree/master/.vscode) - Code snippets, to make creating new hacks easier and faster
+- [.github](../../tree/master/.github) - Repository information for GitHub
   
 <br/>
 
